@@ -1,0 +1,40 @@
+body {
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.texto-generico {
+    font-size: 16px;
+}
+
+.ricomida {
+    font-family: "Lobster", sans-serif;
+}
+
+h2{
+    font-family: "Cabin", sans-serif;
+    font-size: 30pt;
+    
+}
+
+hr {
+    border: 1.2px solid black;
+
+}
+
+.carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(61, 61, 61);
+}
+
+.carousel .carousel-indicators {
+    top: 105%;
+}
